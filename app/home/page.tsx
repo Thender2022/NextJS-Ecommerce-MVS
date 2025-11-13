@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Navbar from "../../components/Navbar";
 import { stripe } from "@/lib/stripe"
-import NarutoCard from "@/public/NarutoCard.jpg"
+// import NarutoCard from "@/public/NarutoCard.jpg"
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { Carousel } from "@/components/carousel";
